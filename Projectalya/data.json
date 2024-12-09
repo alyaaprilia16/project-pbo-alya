@@ -1,0 +1,37 @@
+[
+    {
+        "id": "673ab902ba520",
+        "nama": "susu",
+        "harga": "5000",
+        "stok": "40",
+        "gambar": "https://cdn0-production-images-kly.akamaized.net/WVcOmtrtq0-SE41cZNXrM7BRXiA=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1560632/original/067454600_1491639480-Susu-Putih3.jpg"
+    },
+    {
+        "id": "67563ce03c3b8",
+        "nama": "sabun",
+        "harga": "4500",
+        "stok": "25",
+        "gambar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiru-tLxmM-C8z3qvH4iGI63DloIChQ9wuB_HGwLYqzX3Twap3KH1N_ZVIiGPTxcLReLw0gLy-U-vxVW_Zz0EsmUwxu5eVHQJha_XhUlOND-PKcC5mdb9z3rIz-VzTDt7KD1B22vGWi8t9p/s1600/images+%252815%2529.jpg"
+    },
+    {
+        "id": "67566d0404892",
+        "nama": "shampo",
+        "harga": "2000",
+        "stok": "50",
+        "gambar": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/2/19/3f1298c0-53b6-4958-8ce6-119cd2742ca1.jpg"
+    },
+    {
+        "id": "67566e4be6795",
+        "nama": "kerudung segitiga instan",
+        "harga": "30.000",
+        "stok": "100",
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//115/MTA-57908868/no-brand_kerudung-segitiga-instan-amaya-desmonda-hijab-original_full9.jpg"
+    },
+    {
+        "id": "675674368e91c",
+        "nama": "baju",
+        "harga": "50.000",
+        "stok": "100",
+        "gambar": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/4/14/16954b5f-679e-4bc6-9b3f-c10e54f34fe6.jpg"
+    }
+]
